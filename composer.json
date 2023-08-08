@@ -5,7 +5,7 @@
         "hakhant",
         "convert-mm"
     ],
-    "homepage": "https://github.com/hakhant/convert-mm",
+    "homepage": "https://github.com/hakhant21/convert-mm.git",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -34,9 +34,8 @@
         }
     },
     "scripts": {
-        "test": "vendor/bin/phpunit",
-        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
-
+        "test": "vendor/bin/pest",
+        "test-coverage": "vendor/bin/pest --coverage-html coverage"
     },
     "config": {
         "sort-packages": true,

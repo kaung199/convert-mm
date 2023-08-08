@@ -18,14 +18,14 @@ trait HasDate
         return $this->mm($date);
     }
 
-    private function year($date)
+    public function year($date)
     {
         $year = date('Y', strtotime($date));
 
         return $this->mm($year);
     }
 
-    private function month($date)
+    public function month($date)
     {
         $month = date('m', strtotime($date));
 
@@ -34,7 +34,7 @@ trait HasDate
         return strtr($trimzero, config('convert.mm_month'));
     }
 
-    private function day($date)
+    public function day($date)
     {
         $day = date('d', strtotime($date));
         
