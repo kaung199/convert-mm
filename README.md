@@ -1,4 +1,5 @@
-
+# Converter Myanmar Date and Number NRC
+[![Testing](https://github.com/hakhant21/convert-mm/actions/workflows/main.yml/badge.svg?branch=main&event=push)](https://github.com/hakhant21/convert-mm/actions/workflows/main.yml)
 ## Installation
 
 You can install the package via composer:
