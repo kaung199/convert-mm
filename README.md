@@ -1,7 +1,7 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/hakhant21/convert-mm.svg?style=flat-square)](https://packagist.org/packages/hakhant21/convert-mm)
-[![Total Downloads](https://img.shields.io/packagist/dt/hakhant21/convert-mm.svg?style=flat-square)](https://packagist.org/packages/hakhant21/convert-mm)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/hakhant21/convert-mm.svg?style=flat-square)](https://packagist.org/packages/hakhant/convert-mm)
+[![Total Downloads](https://img.shields.io/packagist/dt/hakhant21/convert-mm.svg?style=flat-square)](https://packagist.org/packages/hakhant/convert-mm)
 ![GitHub Actions](https://github.com/hakhant21/convert-mm/actions/workflows/main.yml/badge.svg)
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
